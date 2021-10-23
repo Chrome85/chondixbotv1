@@ -1,0 +1,35 @@
+{
+  "name": "chondix",
+  "version": "0.1.0",
+  "description": "Chondix",
+  "main": "Chondix.js",
+  "scripts": {
+    "start": "node Chondix.js"
+  },
+  "author": "volkan",
+  "license": "MIT",
+  "dependencies": {
+    "await": "^0.2.6",
+    "axios": "^0.23.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "wio.dbages": "^2.7.5",
+    "discord-button-captcha": "^1.2.3",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.11",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0",
+    "wio.db": "^3.0.9",
+    "ytdl-core": "^4.5.0"
+  }
+}
